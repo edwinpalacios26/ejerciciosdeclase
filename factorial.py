@@ -1,0 +1,1 @@
+     print ("Ingrese numero para su factorial: ")  x = int (input ())   acum = 1  for iin range (1, x + 1):acum = i * acum     print (acum)
